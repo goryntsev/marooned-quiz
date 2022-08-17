@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/marooned-quiz/static/css/main.073c9b0a.css",
-    "main.js": "/marooned-quiz/static/js/main.bb61e41c.js",
-    "static/js/787.6a768535.chunk.js": "/marooned-quiz/static/js/787.6a768535.chunk.js",
-    "static/media/logo.svg": "/marooned-quiz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/marooned-quiz/static/css/main.6339f965.css",
+    "main.js": "/marooned-quiz/static/js/main.c782a5ca.js",
     "index.html": "/marooned-quiz/index.html",
-    "main.073c9b0a.css.map": "/marooned-quiz/static/css/main.073c9b0a.css.map",
-    "main.bb61e41c.js.map": "/marooned-quiz/static/js/main.bb61e41c.js.map",
-    "787.6a768535.chunk.js.map": "/marooned-quiz/static/js/787.6a768535.chunk.js.map"
+    "main.6339f965.css.map": "/marooned-quiz/static/css/main.6339f965.css.map",
+    "main.c782a5ca.js.map": "/marooned-quiz/static/js/main.c782a5ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bb61e41c.js"
+    "static/css/main.6339f965.css",
+    "static/js/main.c782a5ca.js"
   ]
 }
