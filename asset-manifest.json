@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/marooned-quiz/static/css/main.6339f965.css",
-    "main.js": "/marooned-quiz/static/js/main.c782a5ca.js",
+    "main.js": "/marooned-quiz/static/js/main.fd2f878f.js",
     "index.html": "/marooned-quiz/index.html",
     "main.6339f965.css.map": "/marooned-quiz/static/css/main.6339f965.css.map",
-    "main.c782a5ca.js.map": "/marooned-quiz/static/js/main.c782a5ca.js.map"
+    "main.fd2f878f.js.map": "/marooned-quiz/static/js/main.fd2f878f.js.map"
   },
   "entrypoints": [
     "static/css/main.6339f965.css",
-    "static/js/main.c782a5ca.js"
+    "static/js/main.fd2f878f.js"
   ]
 }
